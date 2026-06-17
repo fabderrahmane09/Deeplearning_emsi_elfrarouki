@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Caches and checkpoints
+.ipynb_checkpoints
+.pytest_cache/
+.mypy_cache/
+
+# Datasets (Fashion-MNIST and MNIST are downloaded automatically)
+data/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
